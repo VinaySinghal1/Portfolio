@@ -53,12 +53,13 @@ portfolio/
 
 ## Projects with GitHub Links
 
-| Project | GitHub Repository | Technologies |
-|---------|------------------|--------------|
-| Diamond Price Prediction | [github.com/VinaySinghal1/Diamond-Price-Prediction](https://github.com/VinaySinghal1/Diamond-Price-Prediction) | Python, Scikit-learn, Pandas, NumPy |
-| Sales Dashboard | [github.com/VinaySinghal1/Sales-Dashboard](https://github.com/VinaySinghal1/Sales-Dashboard) | Power BI, DAX, Excel |
-| Pizza Sales Analysis | [github.com/VinaySinghal1/Pizza-Sales-Analysis](https://github.com/VinaySinghal1/Pizza-Sales-Analysis) | SQL, MySQL, Data Analysis |
-
+| Project                         | GitHub Repository                                                                 | Technologies                                  | Category            |
+|---------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------|---------------------|
+| Diamond Price Prediction        | https://github.com/VinaySinghal1/Diamond-Price-Prediction                         | Python, Scikit-learn, Pandas, NumPy           | Machine Learning    |
+| Sales Dashboard                | https://github.com/VinaySinghal1/Sales-Dashboard                                  | Power BI, DAX, Excel                          | Data Visualization  |
+| Pizza Sales Analysis           | https://github.com/VinaySinghal1/Pizza-Sales-Analysis                             | SQL, MySQL, Data Analysis                     | Data Analysis       |
+| Leaf Disease Detection System  | https://github.com/VinaySinghal1/Leaf-Disease-Detection-system                    | Python, Keras, CNN, OpenCV                    | Deep Learning       |
+| Network Security               | https://github.com/VinaySinghal1/Network-Security                                 | Python, Scikit-learn, NumPy, Pandas, Docker   | Machine Learning    |
 ---
 
 ## Tech Stack
