@@ -30,7 +30,8 @@ dist-ssr
 
 # Vercel
 .vercel
-
+.project.md
+.prompt.md
 # Coverage
 coverage
 
