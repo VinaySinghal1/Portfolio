@@ -18,13 +18,14 @@ const Skills = () => {
 
   const skillCategories = [
     {
-      title: 'Programming',
+      title: 'Deep Learning',
       icon: Code2,
       color: 'from-orange-500 to-red-500',
       skills: [
-        { name: 'Python', level: 90 },
-        { name: 'SQL', level: 85 },
-        { name: 'C++', level: 75 },
+        { name: 'Keras', level: 90 },
+        { name: 'TensorFlow', level: 85 },
+        { name: 'PyTorch', level: 75 },
+        { name: 'OpenCV', level: 80 },
       ],
     },
     {
@@ -33,9 +34,9 @@ const Skills = () => {
       color: 'from-blue-500 to-cyan-500',
       skills: [
         { name: 'Scikit-learn', level: 85 },
-        { name: 'TensorFlow', level: 75 },
-        { name: 'Deep Learning', level: 70 },
+        { name: 'Python', level: 90 },
         { name: 'NLP / Embeddings', level: 72 },
+        { name: 'SQL', level: 80 },
       ],
     },
     {

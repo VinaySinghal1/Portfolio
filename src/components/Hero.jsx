@@ -176,7 +176,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-gray-400 mb-10 max-w-xl mx-auto"
         >
-          Aspiring Data Analyst and Machine Learning enthusiast with strong foundations in Python, SQL, and Power BI. Passionate about transforming data into actionable insights.
+          Aspiring Data Analyst and Machine Learning enthusiast with strong foundations in Deep Learning, NLP, Python, SQL, and Power BI. Passionate about transforming data into actionable insights.
         </motion.p>
 
         <motion.div

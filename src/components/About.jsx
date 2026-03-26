@@ -10,8 +10,8 @@ const About = () => {
   const highlights = [
     {
       icon: Code,
-      title: 'Programming',
-      description: 'Python, SQL, C++',
+      title: 'Deep Learning',
+      description: 'Keras,TensorFlow,pytorch',
     },
     {
       icon: Brain,
@@ -73,10 +73,11 @@ const About = () => {
               <span className="gradient-text"> Actionable Insights</span>
             </h2>
             <p className="text-gray-400 text-lg leading-relaxed mb-6">
-              I'm Vinay Singhal, an aspiring Data Analyst and Machine Learning enthusiast 
-              with strong foundations in Python, SQL, and Power BI. Currently pursuing my 
-              B.E. in Artificial Intelligence & Data Science, I'm passionate about leveraging 
-              data to solve real-world problems.
+            I'm Vinay Singhal, an aspiring Data Analyst and Machine Learning enthusiast
+             with a growing interest in Deep Learning and Natural Language Processing (NLP).
+              Currently pursuing my B.E. in Artificial Intelligence & Data Science, 
+              I am passionate about leveraging data and advanced technologies to solve 
+              real-world problems.
             </p>
             <p className="text-gray-400 text-lg leading-relaxed mb-8">
               My journey in data science has equipped me with hands-on experience in building 
@@ -98,7 +99,7 @@ const About = () => {
                 whileHover={{ scale: 1.05 }}
                 className="text-center p-4 glass-card rounded-xl"
               >
-                <div className="text-3xl md:text-4xl font-bold text-accent mb-1">3+</div>
+                <div className="text-3xl md:text-4xl font-bold text-accent mb-1">5+</div>
                 <div className="text-sm text-gray-400">Projects</div>
               </motion.div>
               <motion.div
